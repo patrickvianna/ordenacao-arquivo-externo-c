@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537728851 source:d:\projetos\ord_mem_ext\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
